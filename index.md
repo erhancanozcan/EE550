@@ -1,4 +1,4 @@
-# Example Progress Journal 
+# Progress Journal Artificial Neural Networks
 
 ## HW 1 (March 7)
 
