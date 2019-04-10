@@ -10,7 +10,7 @@
 
 
 ## HW 3 (April 10)
-[Here](Hw3_Ozcan_Erhan_Can_report.html) is the Multi Layer 
+[Here](Hw3_Ozcan_Erhan_Can_report.html) is the Multi Layer Perceptron Model
 
 
 
