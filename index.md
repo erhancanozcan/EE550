@@ -9,6 +9,12 @@
 [Here](Hw2_Ozcan_Erhan_Can_report.html) is the Simple Perceptron Model
 
 
+## HW 3 (April 10)
+[Here](Hw3_Ozcan_Erhan_Can_report.html) is the Multi Layer 
+
+
+
+
 
 
 
