@@ -13,6 +13,9 @@
 [Here](Hw3_Ozcan_Erhan_Can_report.html) is the Multi Layer Perceptron Model
 
 
+## HW 4 (April 29)
+[Here](a4_report.html) is the Unsupervised Clustering Model(Winner-takes-all)
+
 
 
 
